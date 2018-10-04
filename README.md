@@ -2,9 +2,11 @@
 Desarrollar una aplicación móvil que permita la orientación a los padres de familia con el fin de identificar y prevenir la comisión de delitos informáticos donde los niños, niñas y adolescentes son en su mayoría las principales víctimas.
 
 
-## Integrantes
+## Integrantes:
 Derly Fauricio Jimenez Soto
+
 Gerardo Andres Bernal Zapata
+
 Cesar Alonso Martinez Ortiz
 
 
@@ -16,10 +18,10 @@ Debido a la gran problemática por los delitos cometidos en las redes sociales e
 ### Funciones básicas:
 El usuario puede acceder a la información para el cuidado de sus hijos de la siguiente manera:
 
-Amenazas en la red: esta opción brinda orientación a padres de familia y comunidad interesada sobre las Redes sociales, Ingenieria social, Grooming, Sextings, Bulling Intimidad escolar y Ciber acoso.
+-Amenazas en la red: esta opción brinda orientación a padres de familia y comunidad interesada sobre las Redes sociales, Ingenieria social, Grooming, Sextings, Bulling Intimidad escolar y Ciber acoso.
 
-Lo que debes saber: brinda Tips en materia de normatividad vigente en la ley 1098 y la Ley 1801, en caso de ser víctima de los delitos informáticos.
+-Lo que debes saber: brinda Tips en materia de normatividad vigente en la ley 1098 y la Ley 1801, en caso de ser víctima de los delitos informáticos.
 
-Identifica: permite identificar los Riesgos en la web, Posibles causas, Rasgos de depresión, Rasgos de inducción!
+-Identifica: permite identificar los Riesgos en la web, Posibles causas, Rasgos de depresión, Rasgos de inducción!
 
-APP recomendada: App Bloqueo, youtube Kids, estas aplicaciones permiten filtrar los contenidos en la red.
+-APP recomendada: App Bloqueo, youtube Kids, estas aplicaciones permiten filtrar los contenidos en la red.
